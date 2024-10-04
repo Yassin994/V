@@ -1,10 +1,10 @@
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @GlobalTechInfo
+//YouTube: https://www.youtube.com/@Yesserboy92
 //Telegram: https://t.me/GlobalTechInc
-//GitHub: @GlobalTechInfo
-//WhatsApp: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
+//GitHub: @yassin994
+//WhatsApp: https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30
+//want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@Yesserboy92
 
 const { default: makeWASocket, fetchLatestBaileysVersion, downloadContentFromMessage, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
@@ -180,7 +180,7 @@ async function Telesticker(url) {
             }
             xeonyresult.push(result)
         }
-    resolve(xeonyresult)
+    resolve(yesseryresult)
     })
 }
 
@@ -202,7 +202,7 @@ remoteJid: "status@broadcast"
 "buttons": [
 {
 "name": "review_and_pay",
-"buttonParamsJson": `{\"currency\":\"INR\",\"total_amount\":{\"value\":49981399788,\"offset\":100},\"reference_id\":\"4OON4PX3FFJ\",\"type\":\"physical-goods\",\"order\":{\"status\":\"payment_requested\",\"subtotal\":{\"value\":49069994400,\"offset\":100},\"tax\":{\"value\":490699944,\"offset\":100},\"discount\":{\"value\":485792999999,\"offset\":100},\"shipping\":{\"value\":48999999900,\"offset\":100},\"order_type\":\"ORDER\",\"items\":[{\"retailer_id\":\"7842674605763435\",\"product_id\":\"7842674605763435\",\"name\":\"🦄드림 가이 Xeon 🦄드림 가이 Xeon 🦄드림 가이 Xeon\",\"amount\":{\"value\":9999900,\"offset\":100},\"quantity\":7},{\"retailer_id\":\"custom-item-f22115f9-478a-487e-92c1-8e7b4bf16de8\",\"name\":\"\",\"amount\":{\"value\":999999900,\"offset\":100},\"quantity\":49}]},\"native_payment_methods\":[]}`
+"buttonParamsJson": `{\"currency\":\"INR\",\"total_amount\":{\"value\":49981399788,\"offset\":100},\"reference_id\":\"4OON4PX3FFJ\",\"type\":\"physical-goods\",\"order\":{\"status\":\"payment_requested\",\"subtotal\":{\"value\":49069994400,\"offset\":100},\"tax\":{\"value\":490699944,\"offset\":100},\"discount\":{\"value\":485792999999,\"offset\":100},\"shipping\":{\"value\":48999999900,\"offset\":100},\"order_type\":\"ORDER\",\"items\":[{\"retailer_id\":\"7842674605763435\",\"product_id\":\"7842674605763435\",\"name\":\"🦄드림 가이 yesser 🦄드림 가이 yesser 🦄드림 가이 Xeon\",\"amount\":{\"value\":9999900,\"offset\":100},\"quantity\":7},{\"retailer_id\":\"custom-item-f22115f9-478a-487e-92c1-8e7b4bf16de8\",\"name\":\"\",\"amount\":{\"value\":999999900,\"offset\":100},\"quantity\":49}]},\"native_payment_methods\":[]}`
 }
 ]
 }
@@ -244,7 +244,7 @@ remoteJid: "status@broadcast"
 },
 message: {
 listResponseMessage: {
-title: `🦄드림 가이 Xeon`
+title: `🦄드림 가이 yesser`
 }
 }
 }
@@ -668,7 +668,7 @@ const subscribe_dgxeon = {
 },
 message: {
 "listResponseMessage": {
-title: `Xeon's ur father`
+title: `yesser ur father`
 }}
 }
 async function XeonyCrashy(dgxeon,chat) {
@@ -676,7 +676,7 @@ GlobalTechInc.sendMessage(chat, {
 document: {url: './settings.js'},
 mimetype: `image/null`,
 fileName: `${dgxeon}.${xeontext1}` ,
-caption: `${dgxeon + xeontext1}`,
+caption: `${dgyesser + yessertext1}`,
 }, {quoted: subscribe_dgxeon })
 }
 //end bug functions
@@ -688,12 +688,12 @@ var xeonlod = [
 "《 ███████▒▒▒▒▒》50%",
 "《 ██████████▒▒》80%",
 "《 ████████████》100%",
-"𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🦄..."
+"𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 kubababake😂🦄..."
 ]
 let { key } = await GlobalTechInc.sendMessage(from, {text: 'ʟᴏᴀᴅɪɴɢ...'})
 
 for (let i = 0; i < xeonlod.length; i++) {
-await GlobalTechInc.sendMessage(from, {text: xeonlod[i], edit: key });
+await GlobalTechInc.sendMessage(from, {text: yesserlod[i], edit: key });
 }
 }
 
@@ -765,13 +765,13 @@ GlobalTechInc.sendMessage(m.chat, { audio: audiobuffy, mimetype: 'audio/mp4', pt
 }
 }
 for (let BhosdikaXeon of StickerXeon){
-if (budy === BhosdikaXeon){
-let stickerbuffy = fs.readFileSync(`./GlobalMedia/sticker/${BhosdikaXeon}.webp`)
+if (budy === Bhosdikayesser){
+let stickerbuffy = fs.readFileSync(`./GlobalMedia/sticker/${Bhosdikayesser}.webp`)
 GlobalTechInc.sendMessage(m.chat, { sticker: stickerbuffy }, { quoted: m })
 }
 }
 for (let BhosdikaXeon of ImageXeon){
-if (budy === BhosdikaXeon){
+if (budy === Bhosdikayesser){
 let imagebuffy = fs.readFileSync(`./GlobalMedia/image/${BhosdikaXeon}.jpg`)
 GlobalTechInc.sendMessage(m.chat, { image: imagebuffy }, { quoted: m })
 }
@@ -1115,7 +1115,7 @@ senddocu(buffer)
                                 showAdAttribution: true,
                                 title: 'Broadcast By Owner',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://telegra.ph/file/c02035e9c30f7b6da1b29.jpg',
+                                thumbnailUrl: 'https://files.catbox.moe/nr9303.jpeg',
                                 sourceUrl: global.link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -1288,7 +1288,7 @@ senddocu(buffer)
                 if (!m.isGroup) return replyglobal(mess.group)
                 if (!isAdmins && !isGroupOwner && !isCreator && !isPremium) return replyglobal(mess.admin)
                 if (!isBotAdmins && !isCreator && !isPremium) return replyglobal(mess.botAdmin)
-                let teks = `*👥 Tag All*
+                let teks = `*🖐️🤠YESSER BUG*
  
                  🗞️ *Message : ${q ? q : 'blank'}*\n\n`
                 for (let mem of participants) {
@@ -1479,12 +1479,12 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'script':
             case 'scriptbot':
                 GlobalTechInc.sendMessage(m.chat, {
-                    text: `Helllo world`,
+                    text: `🖐️Helllo🤠 guys im yesser`,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `SCRIPT OF ${botname} is on YouTube @DGXeon`,
+                            body: `SCRIPT OF ${botname} is on https://www.youtube.com/@Yesserboy9`,
                             thumbnailUrl: 'https://i.ibb.co/dQkXV2Y/Picsart-23-10-10-18-28-51-982.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
@@ -1509,7 +1509,7 @@ const repf = await GlobalTechInc.sendMessage(from, {
 contacts: { 
 displayName: `${list.length} Contact`, 
 contacts: list }, mentions: [sender] }, { quoted: m })
-GlobalTechInc.sendMessage(from, { text : `Hi @${sender.split("@")[0]}, Here is my handsome owner😇`, mentions: [sender]}, { quoted: repf })
+GlobalTechInc.sendMessage(from, { text : `Hi @${sender.split("@")[0]}, 🖐️🤠hellow Here is my handsome owner😇`, mentions: [sender]}, { quoted: repf })
 }
 break
             case 'sticker':
@@ -1769,19 +1769,19 @@ break
             break
             case 'listvn': {
                 let teks = '┌──⭓「 *List Vn* 」\n│\n'
-                for (let x of VoiceNoteXeon) {
+                for (let x of VoiceNoteyesser) {
                     teks += `│⭔ ${x}\n`
                 }
-                teks += `│\n└────────────⭓\n\n*Total : ${VoiceNoteXeon.length}*`
+                teks += `│\n└────────────⭓\n\n*Total : ${VoiceNoteyesser.length}*`
                 replyglobal(teks)
             }
             break
             case 'liststicker': {
                 let teks = '┌──⭓「 *List Sticker* 」\n│\n'
-                for (let x of StickerXeon) {
+                for (let x of Stickeryesser) {
                     teks += `│⭔ ${x}\n`
                 }
-                teks += `│\n└────────────⭓\n\n*Total : ${StickerXeon.length}*`
+                teks += `│\n└────────────⭓\n\n*Total : ${Stickeryesser.length}*`
                 replyglobal(teks)
             }
             break
@@ -1790,13 +1790,13 @@ break
                 for (let x of ImageXeon) {
                     teks += `│⭔ ${x}\n`
                 }
-                teks += `│\n└────────────⭓\n\n*Total : ${ImageXeon.length}*`
+                teks += `│\n└────────────⭓\n\n*Total : ${Imageyesser.length}*`
                 replyglobal(teks)
             }
             break
             case 'listvideo': {
                 let teks = '┌──⭓「 *List Video* 」\n│\n'
-                for (let x of VideoXeon) {
+                for (let x of Videoyesser) {
                     teks += `│⭔ ${x}\n`
                 }
                 teks += `│\n└────────────⭓\n\n*Total : ${VideoXeon.length}*`
@@ -1827,9 +1827,9 @@ break
                 if (args.length < 1) return replyglobal('Video Name?')
                 if (VideoXeon.includes(q)) return replyglobal("The name you entered already exists")
                 let delb = await GlobalTechInc.downloadAndSaveMediaMessage(quoted)
-                VideoXeon.push(q)
+                Videoyesser.push(q)
                 await fsx.copy(delb, `./GlobalMedia/video/${q}.mp4`)
-                fs.writeFileSync('./database/autoreply/video.json', JSON.stringify(VideoXeon))
+                fs.writeFileSync('./database/autoreply/video.json', JSON.stringify(Videoyesser))
                 fs.unlinkSync(delb)
                 replyglobal(`Success Adding Video\To View Type ${prefix}listvideo`)
             }
@@ -1838,9 +1838,9 @@ break
                 if (!isPremium) return replyglobal(mess.prem)
                 if (args.length < 1) return replyglobal('Enter the Video Name')
                 if (!VideoXeon.includes(q)) return replyglobal("Name Does Not Exist in Database")
-                let wanu = VideoXeon.indexOf(q)
-                VideoXeon.splice(wanu, 1)
-                fs.writeFileSync('./database/autoreply/video.json', JSON.stringify(VideoXeon))
+                let wanu = Videoyessser.indexOf(q)
+                Videoyesser.splice(wanu, 1)
+                fs.writeFileSync('./database/autoreply/video.json', JSON.stringify(Videoyesser))
                 fs.unlinkSync(`./GlobalMedia/video/${q}.mp4`)
                 replyglobal(`Successfully Deleted Video ${q}`)
             }
@@ -1850,7 +1850,7 @@ break
                 if (args.length < 1) return replyglobal('The name of the image?')
                 if (ImageXeon.includes(q)) return replyglobal("The name you entered is already registered in the database")
                 let delb = await GlobalTechInc.downloadAndSaveMediaMessage(quoted)
-                ImageXeon.push(q)
+                Imageyesser.push(q)
                 await fsx.copy(delb, `./GlobalMedia/image/${q}.jpg`)
                 fs.writeFileSync('./database/autoreply/image.json', JSON.stringify(ImageXeon))
                 fs.unlinkSync(delb)
@@ -1948,7 +1948,7 @@ break
 case 'listzip': {
 await loading()
 let teksooooo = '┌──⭓「 *ZIP LIST* 」\n│\n'
-for (let x of ZipXeon) {
+for (let x of Zipyesser) {
 teksooooo += `│⭔ ${x}\n`
 }
 teksooooo += `│\n└────────────⭓\n\n*Total : ${ZipXeon.length}*`
@@ -2506,11 +2506,11 @@ var contactInfo = await GlobalTechInc.onWhatsApp(cleanedNumber + "@s.whatsapp.ne
 					const crasoh = await GlobalTechInc.relayMessage(jid,
 						{
 							extendedTextMessage: {
-								text: '#BIL MD CRASH ☠️🔥',
+								text: '#YESSER MD CRASH ☠️🔥',
 								matchedText: 'LEGALLY WRONG, ETHICALLY RIGHT',
 								canonicalUrl: 'https://example.com',
-								description: '#BIL MD CRASH ☠️🔥',
-								title: '#BIL MD CRASH ☠️🔥',
+								description: '#YESSER MD CRASH ☠️🔥',
+								title: '#YESSER MD CRASH ☠️🔥',
 								textArgb: 0xff000000,
 								backgroundArgb: 0xffffffff,
 								font: 1,
@@ -2582,7 +2582,7 @@ var contactInfo = await GlobalTechInc.onWhatsApp(cleanedNumber + "@s.whatsapp.ne
 											subtitle: ' ',
 										},
 										body: {
-											text: '#BIL MD CRASH ☠️🔥',
+											text: '# YESSER MD CRASH ☠️🔥',
 										},
 										footer: {
 											text: 'xp',
@@ -2830,7 +2830,7 @@ case 'lockotp': case 'tempban': {
   const xeonmerge = `${xeonCountryCode}${xtarget}`
   const xeonMention = xeonmerge + '@s.whatsapp.net';
   sendMessageWithMentions(
-    "Successfully Activated OTP LOCK To @" + xeonMention.split('@')[0] + 
+    "Successfully Activated OTP LOCK To @" + yesserMention.split('@')[0] + 
     " Using *" + command + "* ✅\n\nPause 2 minutes so that the bot is not banned.", 
     [xeonMention]
   );
@@ -3023,12 +3023,12 @@ ${readmore}
 > sound1 - sound161`
 if (typemenu === 'v1') {
                     GlobalTechInc.sendMessage(m.chat, {
-                        text: xeonmenuoh,
+                        text: yessermenuoh,
                         contextInfo: {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://i.ibb.co/hFFgCL2/qris.jpg',
+                                thumbnailUrl: 'https://files.catbox.moe/nr9303.jpeg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -3041,12 +3041,12 @@ if (typemenu === 'v1') {
                     GlobalTechInc.sendMessage(m.chat, {
       video: fs.readFileSync('./GlobalMedia/thumb2.mp4'),
       gifPlayback: true,
-      caption: xeonmenuoh,
+      caption: YESSER BUG,
       contextInfo: {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/1mr4Y16/anjay.jpg',
+      thumbnailUrl: 'https://files.catbox.moe/nr9303.jpeg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -3058,7 +3058,7 @@ if (typemenu === 'v1') {
                 } else if (typemenu === 'v3') {
                     GlobalTechInc.sendMessage(m.chat, {
                         video: fs.readFileSync('./GlobalMedia/thumb2.mp4'),
-                        caption: xeonmenuoh,
+                        caption: YESSER BuG,
                         gifPlayback: true
                     }, {
                         quoted: m
@@ -3068,7 +3068,7 @@ if (typemenu === 'v1') {
                         scheduledCallCreationMessage: {
                            callType: "AUDIO",
                            scheduledTimestampMs: 1200,
-                           title: xeonmenuoh
+                           title: YESSER BuG
                         }
                     }, {})
                 }
