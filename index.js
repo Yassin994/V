@@ -1,11 +1,10 @@
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @GlobalTechInfo
+//YouTube: https://www.youtube.com/@Yesserboy92
 //Telegram: https://t.me/GlobalTechInc
-//GitHub: @GlobalTechInfo
-//WhatsApp: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
-
+//GitHub: @yassin99
+//WhatsApp: https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30
+//want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@Yesserboy92
 const {
    spawn
 } = require('child_process')
