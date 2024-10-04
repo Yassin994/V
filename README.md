@@ -20,18 +20,12 @@
   
 <p align="center"><img src="https://profile-counter.glitch.me/{yesserBug-V8}/count.svg" alt="yessertech:: Visitor's Count" /></p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-title="Forks" src="https://img.shields.io/github/forks/Yassin994/v?color=red&style=flat-square"></a>
-<a href="https://github.com/Yassin994/v/"><img title="Size" src="https://img.shields.io/github/repo-size/Yassin994/v?style=flat-square&color=green"></a>
-<a href="https://github.com/Yassin994/v/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-yellow.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-</p>
+
+
 
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://t.me/GlobalBotInc" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/KrseXOOYu2nKOkht0qonhY="_blank">
     <img alt="telegram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
@@ -54,7 +48,7 @@ title="Forks" src="https://img.shields.io/github/forks/Yassin994/v?color=red&sty
 # CLICK THE BUTTON TO FORK
 
 
-<a href="https://github.com/GlobalTechInfo/XeonBug-V8/fork"><img title="XeonBug-V8" src="https://img.shields.io/badge/FORK-XeonBug V8-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Yassin994/v/fork"><img title="XeonBug-V8" src="https://img.shields.io/badge/FORK-XeonBug V8-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -129,14 +123,14 @@ npm start
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
-| [![Qasim Ali](https://github.com/GlobalTechInfo.png?size=100)](https://github.com/GlobalTechInfo) |
+| [![yessertech](https://github.com/Yassin994.png?size=100)](https://github.com/Yassin994) |
 | --- |
-| [Qasim Ali](https://github.com/GlobalTechInfo) |
+| [yessertech](https://github.com/Yassin994) |
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
-[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07)
+[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30l)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
