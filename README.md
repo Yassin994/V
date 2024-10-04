@@ -11,7 +11,7 @@
 <p align="center">
  
 <p align="center">
-<a href="https://github.com/Yassin994"><img title="Author" src="https://i.ibb.co/jHynY57/11993dc55c32a21a249ef1721fb66af4.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Yassin994"><img title="Author" src="https://files.catbox.moe/nr9303.jpeg?style=for-the-badge&logo=github"></a>
 <p>
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -48,7 +48,7 @@
 # CLICK THE BUTTON TO FORK
 
 
-<a href="https://github.com/Yassin994/v/fork"><img title="XeonBug-V8" src="https://img.shields.io/badge/FORK-XeonBug V8-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Yassin994/v/fork"><img title="YESSER BUG" src="https://img.shields.io/badge/FORK-XeonBug V8-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
