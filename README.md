@@ -23,13 +23,9 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
-
-
-<p align="center">
-<a href="https://github.com/Yassin994/v/stargazers/"><img title="Stars" src="https://img.shields.io/GitHub.com/Yassin994/Star/v?color=blue&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/XeonBug-V8/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GlobalTechInfo/XeonBug-V8?color=red&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/XeonBug-V8/"><img title="Size" src="https://img.shields.io/github/repo-size/GlobalTechInfo/XeonBug-V8?style=flat-square&color=green"></a>
-<a href="https://github.com/GlobalTechInfo/XeonBug-V8/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-yellow.svg"></a>&nbsp;&nbsp;
+href="https://github.com/Yassin994/v/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Yassin994/v?color=red&style=flat-square"></a>
+<a href="https://github.com/Yassin994/v/"><img title="Size" src="https://img.shields.io/github/repo-size/Yassin994/v?style=flat-square&color=green"></a>
+<a href="https://github.com/Yassin994/v/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-yellow.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
