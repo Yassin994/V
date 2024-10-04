@@ -1,11 +1,10 @@
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @GlobalTechInfo
+//YouTube: https://www.youtube.com/@Yesserboy92
 //Telegram: https://t.me/GlobalTechInc
-//GitHub: @GlobalTechInfo
-//WhatsApp: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
-
+//GitHub: @yassin994
+//WhatsApp: https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30
+//want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@Yesserboy92
 require('./settings')
 const pino = require('pino')
 const { Boom } = require('@hapi/boom')
@@ -31,7 +30,7 @@ const store = makeInMemoryStore({
     })
 })
 
-let phoneNumber = "923444844060"
+let phoneNumber = "255621995482"
 let owner = JSON.parse(fs.readFileSync('./database/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
